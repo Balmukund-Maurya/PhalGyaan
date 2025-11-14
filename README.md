@@ -35,7 +35,6 @@ Designed to be clean, fast, and easy to use.
 ---
 
 ## Screenshots
-(Add screenshots to a `/screenshots` folder and update the paths below)
 
 | Home Screen | Fruit Grid | Details Screen |
 |-------------|------------|----------------|
@@ -61,3 +60,15 @@ Designed to be clean, fast, and easy to use.
 1. Clone the project:
    ```bash
    https://github.com/Balmukund-Maurya/PhalGyaan.git
+
+2. Navigate to the project directory
+   ```bash
+  cd PhalGyaan
+
+3. Install the required dependencies
+   ```bash
+   flutter pub get
+
+4. Run the app
+   ```bash
+   flutter run
