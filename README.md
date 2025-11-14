@@ -1,4 +1,4 @@
-# PhalGyaan – A Friendly Fruit Learning App (Flutter)
+# PhalGyaan – A Friendly Fruit App (Flutter)
 
 PhalGyaan (फलज्ञान) is a simple and beautiful app built using **Flutter & Dart**.  
 It helps users learn about different fruits, their nutritional values, health benefits, and quick recipes.  
