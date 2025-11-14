@@ -1,16 +1,63 @@
-# app_layout
+# PhalGyaan – A Friendly Fruit Learning App (Flutter)
 
-A new Flutter project.
+PhalGyaan (फलज्ञान) is a simple and beautiful app built using **Flutter & Dart**.  
+It helps users learn about different fruits, their nutritional values, health benefits, and quick recipes.  
+Designed to be clean, fast, and easy to use.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+### Explore Fruits
+- Clean grid layout
+- Fruit cards with image, name, and short benefits
+- Smooth scrolling and responsive design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Detailed Fruit Information
+- Full fruit description
+- Health benefits
+- Nutritional Table (per 100g)
+- Fruit-based recipe ideas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Share Feature
+- Share fruit details or app link using Flutter’s share functionality
+
+### Smooth UI/UX
+- Bright and friendly color theme
+- Rounded cards and modern layout
+- Easy to read typography
+
+---
+
+## Demo Video
+(video link here)
+
+---
+
+## Screenshots
+(Add screenshots to a `/screenshots` folder and update the paths below)
+
+| Home Screen | Fruit Grid | Details Screen |
+|-------------|------------|----------------|
+| ![](screenshots/home1.png) | ![](screenshots/home2.png) | ![](screenshots/info1.png) |
+
+| Nutrition Table | Recipes | Share Sheet |
+|------------------|---------|-------------|
+| ![](screenshots/info2.png) | ![](screenshots/share.png)
+
+---
+
+## Tech Stack
+- Flutter  
+- Dart  
+- Material UI components  
+- ResponsiveLayouts  
+- Share Plus (or your chosen share package)
+
+---
+
+## How to Run
+
+1. Clone the project:
+   ```bash
+   https://github.com/Balmukund-Maurya/PhalGyaan.git
