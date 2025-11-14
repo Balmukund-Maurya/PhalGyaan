@@ -40,8 +40,8 @@ Designed to be clean, fast, and easy to use.
 |-------------|------------|----------------|
 | ![](screenshots/home1.png) | ![](screenshots/home2.png) | ![](screenshots/info1.png) |
 
-| Nutrition Table | Recipes | Share Sheet |
-|------------------|---------|-------------|
+| Nutrition Table | Share App |
+|------------------|---------|
 | ![](screenshots/info2.png) | ![](screenshots/share.png)
 
 ---
