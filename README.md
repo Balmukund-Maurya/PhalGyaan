@@ -63,7 +63,7 @@ Designed to be clean, fast, and easy to use.
 
 2. Navigate to the project directory
    ```bash
-  cd PhalGyaan
+   cd PhalGyaan
 
 3. Install the required dependencies
    ```bash
